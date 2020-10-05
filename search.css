@@ -1,0 +1,157 @@
+form {
+  text-align: center;
+}
+.image {
+  width: 40%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bar {
+  border-radius: 0;
+  -webkit-box-shadow: 2px 3px 0px -2px #ccc;
+  padding: 10px;
+  border: 0px;
+  outline: none;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.bar:hover {
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+#userInput,
+#userImage {
+  width: 500px;
+  height: 35px;
+  margin: 4px;
+  padding: 8px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  font-size: 16px0;
+  flex: 100%;
+  background-color: transparent;
+}
+
+.top {
+  float: right;
+  padding-right: 30px;
+  padding-right: 30px;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.87);
+}
+.b1,
+.b2 {
+  height: 40px;
+  width: auto;
+  color: #646464;
+  background: #f2f2f2;
+  border: none;
+  cursor: pointer;
+  margin: 4px;
+}
+.b1:hover,
+.b2:hover {
+  color: #373737;
+  background: #d3d3d3;
+  border: 0.5px solid lightgrey;
+}
+#gi {
+  background-size: 272px 92px;
+  height: 92px;
+  width: 272px;
+}
+@import url(https://fonts.googleapis.com/css?family=Open + Sans);
+h1 {
+  white-space: nowrap;
+  font-family: "Open Sans", serif;
+  position: relative;
+  height: 60px;
+  width: 100%;
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+.h {
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+.l {
+  border-bottom: 1px solid #ebebeb;
+}
+.a1 {
+  box-shadow: none;
+  background-color: #4d90fe;
+  background-image: -webkit-linear-gradient(top, #4d90fe, #4787ed);
+  border-radius: 2px;
+  cursor: default;
+  font-size: 11px;
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap;
+  color: white;
+  margin-right: 16px;
+  height: 27px;
+  line-height: 27px;
+  min-width: 54px;
+  outline: 0;
+  padding: 0 8px;
+  border: none;
+}
+p {
+  indent-text: 5em;
+}
+.tab2 {
+  padding-left: 62px;
+}
+.tab1 {
+  padding-left: 177px;
+}
+.tab3 {
+  padding-left: 119px;
+}
+.tab4 {
+  padding-left: 106px;
+}
+.tab5 {
+  padding-left: 686px;
+}
+.tab6 {
+  font-size: 12px;
+}
+.tab7 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #777;
+}
+.tab8 {
+  font-size: 16px;
+  height: 42px;
+  font-weight: 500;
+  color: #333;
+}
+.tab10 {
+  padding-left: 1%;
+  font-size: 30px;
+  font-weight: 900;
+  vertical-align: middle;
+}
+.box {
+  width: 500px;
+}
+#gs {
+  font-size: medium;
+  text-align: end;
+  vertical-align: text-top;
+}
